@@ -27,6 +27,8 @@ common:
     url: https://github.com/feedbin/feedbin-api
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://feedbin.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
