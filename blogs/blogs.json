@@ -1,0 +1,14 @@
+{
+  "repo": "feedbin",
+  "feeds": [
+    {
+      "source": "https://feedbin.com/blog",
+      "feed_url": "https://feedbin.com/blog/atom.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 10
+}
